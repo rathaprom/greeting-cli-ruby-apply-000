@@ -2,11 +2,3 @@
 require_relative "../lib/greeting.rb"
 
 # code your CLI here!
-bin
-   |–– greet
-lib
-   |–– greeting.rb
-spec
-   |–– 01_greeting_spec.rb
-   |–– 02_cli_spec.rb
-   |–– spec_helper.rb
